@@ -1,4 +1,4 @@
-<a href="https://ibb.co/bgRn1nK"><img src="https://i.ibb.co/Y7TG2GL/Modern-Minimal-Technology-Background-Banner.png" alt="Modern-Minimal-Technology-Background-Banner" border="0" width="1000px" height="300px" ></a>
+<a href="https://ibb.co/bgRn1nK"><img src="https://i.ibb.co/Y7TG2GL/Modern-Minimal-Technology-Background-Banner.png" alt="Modern-Minimal-Technology-Background-Banner" border="0" width="1000px" height="250px" ></a>
 <h1 align="center">Hi 👋, I'm Tushar Sapate</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
