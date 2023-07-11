@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Sapate</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img align="right" alt="Coding Img" width="230px" margin-left="30px"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding Img" width="230px" margin-left="10px"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tush786&label=Profile%20views&color=0e75b6&style=flat" alt="tush786" /> </p>
 
@@ -11,9 +11,9 @@
 - 👨‍💻 All of my projects are available at
 - [https://github.com/Tush786/Myntra_Clone](https://github.com/Tush786/Myntra_Clone),
 - <a href="https://ibb.co/M2h2BMH"><img src="https://i.ibb.co/2n6nZgr/Myntra-Home-Page.png" alt="Myntra-Home-Page" border="0" width="305px"></a>
-<a href="https://ibb.co/nwTbRmh"><img src="https://i.ibb.co/103LbQH/Myntra-Product-Page.png" alt="Myntra-Product-Page" border="0" width="305px"></a>
+<a href="https://ibb.co/nwTbRmh"><img src="https://i.ibb.co/103LbQH/Myntra-Product-Page.png" alt="Myntra-Product-Page" border="0" width="310px"></a>
 <a href="https://ibb.co/hHdz3Vs"><img src="https://i.ibb.co/9245QWn/Payment-Page-Myntra.png" alt="Payment-Page-Myntra" border="0"  width="305px" margin-left="50px"></a>
-<a href="https://ibb.co/zfTJzQW"><img src="https://i.ibb.co/kcs1t5V/Cart-Page.png" alt="Cart-Page" border="0" width="305px"></a>
+<a href="https://ibb.co/zfTJzQW"><img src="https://i.ibb.co/kcs1t5V/Cart-Page.png" alt="Cart-Page" border="0" width="310px"></a>
 - <h4>Netlify:https://beautiful-yeot-9dd65c.netlify.app/mens.html</h4>
 - https://github.com/pankajsbisht143/YourPharmacy
 
