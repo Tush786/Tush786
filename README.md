@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React Js, Node Js**
 
-- 👨‍💻 All of my projects are available at https://tush786.github.io
+- 👨‍💻 All of my projects are available at https://tush786.github.io/
 - [https://github.com/Tush786/Myntra_Clone](https://github.com/Tush786/Myntra_Clone),
 - <a href="https://ibb.co/M2h2BMH"><img src="https://i.ibb.co/2n6nZgr/Myntra-Home-Page.png" alt="Myntra-Home-Page" border="0" width="308px"></a>
 <a href="https://ibb.co/nwTbRmh"><img src="https://i.ibb.co/103LbQH/Myntra-Product-Page.png" alt="Myntra-Product-Page" border="0" width="308px"></a>
