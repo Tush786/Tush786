@@ -1,7 +1,7 @@
 <a href="https://ibb.co/bgRn1nK"><img src="https://i.ibb.co/Y7TG2GL/Modern-Minimal-Technology-Background-Banner.png" alt="Modern-Minimal-Technology-Background-Banner" border="0" width="1000px" height="250px" ></a>
 <h1 align="center">Hi 👋, I'm Tushar Sapate</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<h2><a href="https://tush786.github.io/">Portfolio</a></h2>
+<h2>Portfolio : <a href="https://tush786.github.io/">https://tush786.github.io</a></h2>
 
 <img align="right" alt="Coding Img" width="230px" margin-left="20px"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
