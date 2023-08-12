@@ -1,7 +1,6 @@
 <a href="https://ibb.co/bgRn1nK"><img src="https://i.ibb.co/Y7TG2GL/Modern-Minimal-Technology-Background-Banner.png" alt="Modern-Minimal-Technology-Background-Banner" border="0" width="1000px" height="250px" ></a>
 <h1 align="center">Hi 👋, I'm Tushar Sapate</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-Portfolio : https://tush786.github.io
 
 <img align="right" alt="Coding Img" width="230px" margin-left="20px"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -9,7 +8,7 @@ Portfolio : https://tush786.github.io
 
 - 🌱 I’m currently learning **JavaScript, React Js, Node Js**
 
-- 👨‍💻 All of my projects are available.
+- 👨‍💻 All of my projects are available at https://tush786.github.io
 - [https://github.com/Tush786/Myntra_Clone](https://github.com/Tush786/Myntra_Clone),
 - <a href="https://ibb.co/M2h2BMH"><img src="https://i.ibb.co/2n6nZgr/Myntra-Home-Page.png" alt="Myntra-Home-Page" border="0" width="308px"></a>
 <a href="https://ibb.co/nwTbRmh"><img src="https://i.ibb.co/103LbQH/Myntra-Product-Page.png" alt="Myntra-Product-Page" border="0" width="308px"></a>
@@ -23,7 +22,7 @@ Portfolio : https://tush786.github.io
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/tushar123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tushar123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tushar sapate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar sapate" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/tushar-sapate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar sapate" height="30" width="40" /></a>
 
 </p>
 
