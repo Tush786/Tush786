@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tush786&label=Profile%20views&color=0e75b6&style=flat" alt="tush786" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React Js, Node Js**
+- 🌱 I’m currently learning **AWS, Next.js, Node.js and Express.js**
 
 - 👨‍💻 All of my projects are available at https://tush786.github.io/
 
